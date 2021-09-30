@@ -1,0 +1,26 @@
+﻿@model List<Birim>
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<table class="table table-borderd">
+    <tr>
+        <th>BirimID</th>
+        <th>BirimAd</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.BirimID</td>
+            <td>@x.BirimAd</td>
+            <td><a href="/Birim/BirimSil/@x.BirimID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Birim/BirimGetir/@x.BirimID" class="btn btn-success">Güncelle</a></td>
+            <td><a href="#" class="btn btn-outline-info">Detaylar</a></td>
+        </tr>
+    }
+
+</table>
+<a href="/Birim/YeniBirim/" class="btn btn-primary">Yeni Birim</a>

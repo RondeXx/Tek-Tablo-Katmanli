@@ -1,0 +1,13 @@
+﻿@model WebApplication13.Models.Birim
+@{
+    ViewData["Title"] = "YenıBırım";
+}
+<br />
+<form asp-controller="Birim" asp-action="YeniBirim" method="post" class="form-group">
+
+    <b>Yeni Birim Ekle</b>
+    <br />
+    @Html.TextBoxFor(x => x.BirimAd, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info" type="submit">Birim Ekle</button>
+</form>

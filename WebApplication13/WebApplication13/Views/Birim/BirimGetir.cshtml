@@ -1,0 +1,23 @@
+﻿@model WebApplication13.Models.Birim
+@using WebApplication13.Models
+@{
+    ViewData["Title"] = "BirimGetir";
+}
+
+
+
+
+@using (Html.BeginForm("BirimGuncelle", "Birim", FormMethod.Post))
+{
+    <b> Birim ID</b>
+    <br />
+    @Html.TextBoxFor(x => x.BirimID, new { @class = "form-control" })
+    <b> Birim Adı</b>
+    <br />
+    @Html.TextBoxFor(x => x.BirimAd, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info" type="submit" style="background:#71c4ff">Birim Günccelle</button>
+}
+
+
+
