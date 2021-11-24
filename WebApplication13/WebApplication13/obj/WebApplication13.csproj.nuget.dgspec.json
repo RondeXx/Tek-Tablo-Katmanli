@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vakıf Global\\source\\repos\\WebApplication13\\WebApplication13\\WebApplication13.csproj": {}
+    "C:\\Users\\Vakıf Global\\Desktop\\Tek-Tablo-Katmanli\\WebApplication13\\WebApplication13\\WebApplication13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vakıf Global\\source\\repos\\WebApplication13\\WebApplication13\\WebApplication13.csproj": {
+    "C:\\Users\\Vakıf Global\\Desktop\\Tek-Tablo-Katmanli\\WebApplication13\\WebApplication13\\WebApplication13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vakıf Global\\source\\repos\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
+        "projectUniqueName": "C:\\Users\\Vakıf Global\\Desktop\\Tek-Tablo-Katmanli\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
         "projectName": "WebApplication13",
-        "projectPath": "C:\\Users\\Vakıf Global\\source\\repos\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
+        "projectPath": "C:\\Users\\Vakıf Global\\Desktop\\Tek-Tablo-Katmanli\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
         "packagesPath": "C:\\Users\\Vakıf Global\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vakıf Global\\source\\repos\\WebApplication13\\WebApplication13\\obj\\",
+        "outputPath": "C:\\Users\\Vakıf Global\\Desktop\\Tek-Tablo-Katmanli\\WebApplication13\\WebApplication13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vakıf Global\\AppData\\Roaming\\NuGet\\NuGet.Config",

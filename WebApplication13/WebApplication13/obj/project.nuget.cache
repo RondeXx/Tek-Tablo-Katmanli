@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qpKzoUuWZYl/LKleBioJy0GVzAllgz+O5fmVoEeqI+mVQzFN2Qx+Qpyj96vAt80NfYGvx0oasTJEENUZrdh7qw==",
+  "dgSpecHash": "DQGxKGxX789xbpocyCH8B0zEiU0b0bhhFGbfrpZVnfqjY3xz6xKTrNgVasokSfwpIbFIRVoITbLXTw+wj79X1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vakıf Global\\source\\repos\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
+  "projectFilePath": "C:\\Users\\Vakıf Global\\Desktop\\Tek-Tablo-Katmanli\\WebApplication13\\WebApplication13\\WebApplication13.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vakıf Global\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vakıf Global\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
